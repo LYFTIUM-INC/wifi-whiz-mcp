@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "wireless-security-mcp": {
+      "command": "node",
+      "args": [
+        "wireless-security-mcp/dist/index.js"
+      ],
+      "cwd": "/home/dell/coding/mcp/wifi-whiz-mcp",
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
